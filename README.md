@@ -10,7 +10,6 @@ Profound views
 * [Usage](#usage)
 * [Contribution](#contribution)
 * [license](#license)
-* [Questions](#questions) 
 * [Contact](#contact)
 
 ## Description
