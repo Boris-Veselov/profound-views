@@ -28,8 +28,21 @@ const resolvers = {
         // get one thought
         thought: async (parent, { _id }) => {
             return Thought.findOne({ _id });
-            
+        },
+        
+    Mutation: {
+
+        // add user
+        addUser: async (parent, args) => {
+            const user = await User.create(args);
+          
+            return user;
+        },
+
+        login: async () => {
+
         }
+    }
     }
 };
 
