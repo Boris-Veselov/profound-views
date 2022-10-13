@@ -1,4 +1,4 @@
-# Ttile 
+# Title 
 
 Profound views
   
@@ -21,6 +21,9 @@ a Social network for users to sare their opinions, thoughts and views on any top
 * React
 * Bootstrap
 * CSS
+
+## Screenshot
+<img width="1112" alt="Screen Shot 2022-10-13 at 2 33 04 PM" src="https://user-images.githubusercontent.com/96749114/195678927-0c35cc38-7edf-48f6-995c-7f5ea9e4b9a3.png">
 
 ## Installation
 
